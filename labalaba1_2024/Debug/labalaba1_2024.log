@@ -1,0 +1,5 @@
+﻿  Source.c
+c:\users\matveiga\source\repos\labalaba1_2024\labalaba1_2024\source.c(18): warning C4133: инициализация: несовместимые типы - из "Date *" в "Date1 *"
+c:\users\matveiga\source\repos\labalaba1_2024\labalaba1_2024\source.c(37): warning C4101: numsofdates: неиспользованная локальная переменная
+c:\users\matveiga\source\repos\labalaba1_2024\labalaba1_2024\source.c(32): warning C4716: viod: должна возвращать значение
+  labalaba1_2024.vcxproj -> C:\Users\MatveiGa\source\repos\labalaba1_2024\Debug\labalaba1_2024.exe
